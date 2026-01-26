@@ -18,7 +18,7 @@ title: About Me
 
 1. **Xu, E.**, Ye, K., Zhou, H., Zhu, L., Quinzan, F. and Shi, C. [*Doubly Robust Alignment for Large Language Models*](https://arxiv.org/pdf/2506.01183) (NeurIPS 2025) | [GitHub: DRPO4LLM](https://github.com/ErhanXu/DRPO4LLM)
 
-2. Zhu, J., Zhou, H., Ye, K., Yang, Y., **Xu, E.** and Shi, C. [*Towards Prompt-Robust Machine-Generated Text Detection*](https://openreview.net/forum?id=2ZUPeEM3FH) (Under ICLR 2026 Review) | [GitHub: adagpt](https://github.com/ErhanXu/adagpt)
+<!-- 2. Zhu, J., Zhou, H., Ye, K., Yang, Y., **Xu, E.** and Shi, C. [*Towards Prompt-Robust Machine-Generated Text Detection*](https://openreview.net/forum?id=2ZUPeEM3FH) (Under ICLR 2026 Review) | [GitHub: adagpt](https://github.com/ErhanXu/adagpt) -->
 
 3. **Master's Thesis**: *On the Bull and Bear Narratives in Chinese Stock Market*
 
