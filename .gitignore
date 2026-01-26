@@ -1,0 +1,17 @@
+# Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Personal files
+CV_Erhan_Xu_Bilingual.md
+favicon_io/

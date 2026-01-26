@@ -1,0 +1,80 @@
+baseURL = 'https://erhan-xu.github.io/'
+title = ''
+theme = 'typo'
+languageCode = 'en-gb' 
+
+[params]
+description = "Erhan Xu's Academic Homepage"
+theme = 'auto'
+colorPalette = 'base16-eighties'
+hideHeader = false
+showFooter = false
+faviconPath = ''
+
+# --- 核心：在这里把中英文简介写在一起 ---
+homeIntroTitle = 'Hi, I am Erhan. | 伏惟道安'
+homeIntroContent = """
+Hi, I am **Erhan Xu**, a PhD student in Statistics as LSE, working with Prof. Chengchun Shi on RL and LLMs. I run ArchLinux, spend too much time configuring Hyprland, and love custom ROMs. I occasionally brick my Android phone and then fix it, which I tell myself is learning how to build kernels.
+
+When not debugging neural networks or reading some textbooks on why statistics matter, I play bamboo flute and guqin badly, practices calligraphy in the style of Wu Changshuo and Wang Duo, and pretend to understand Kant, Hegel, Lacan, Deleuze and Guattari. I'm also a big fan of classical music, especially Bach, Ravel, Shostakovich, Schubert, Medtner, Boulanger ... and a lot of niche composers, progressive metal, and hiking in places where my phone has no signal.
+
+Feel free to reach out if you wnat to discuss AI alignment, music and post-impressionism, or why your Hyprland config is definitely better than mine (or maybe niri?)
+
+这是**徐尔瀚**的主页和博客。目前在伦敦政治经济学院 (LSE)攻读统计学博士学位，师承史成春教授。研究方向包括 RL和LLM之类的东西。日常使用ArchLinux和Hyprland，双拼打字，尝试dvorak键盘感觉会有点超过，但想要一把分体式键盘。会鼓捣neovim但是现在lazyvim了，对于工作流的优化偶尔会有一些执念。刷机失败经验丰富，曾多次试图变异（编译）安卓内核然后搞砖手机。
+
+在不炼丹（多重意义）和被经验过程这种圣经吓得望而却步的时候，可能会以琴棋书自娱，假装读一些艺术批评，古典F4（主要是后人解读）和后现代，拉康派精神分析之类的。识谱困难但是超爱古典，尤其巴赫拉威尔老肖舒伯特布朗热梅特纳还有一众宝藏挖掘出来的作品，还有前卫金属（现在听得少一点）。对于户外和露营也很有兴趣，风景得好。如果你想聊聊大语言模型，大六壬和斗数，以及你的linux为什么超级炫酷，欢迎ping我。
+"""
+
+
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2006-01-02'
+
+# 面包屑导航
+[params.breadcrumbs]
+  enabled = true
+  showCurrentPage = true
+  home = "~"
+
+# 社交链接
+[[params.social]]
+  name = "github"
+  url = "https://github.com/ErhanXu"
+
+[[params.social]]
+name = "gmail"
+url = "mailto:e.xu2@lse.ac.uk"
+  # 
+# -----------------------------------------------------------------------------
+# 菜单设置 (直接使用标准菜单，不需要区分语言)
+# -----------------------------------------------------------------------------
+[[params.menu]]
+  name = "home"
+  url = "/"
+  weight = 1
+
+[[params.menu]]
+  name = "blogs" 
+  url = "/blogs"
+  weight = 5
+
+[[params.menu]]
+  name = "about"
+  url = "/about"
+  weight = 10
+
+# 代码高亮
+[markup]
+[markup.highlight]
+style = 'rose-pine-moon'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
+
