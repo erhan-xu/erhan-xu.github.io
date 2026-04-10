@@ -67,6 +67,9 @@ url = "mailto:e.xu2@lse.ac.uk"
 [markup]
 [markup.highlight]
 style = 'rose-pine-moon'
+[markup.goldmark.parser.attribute]
+block = true
+title = true
 
 # Giscus comments
 [params.giscus]
