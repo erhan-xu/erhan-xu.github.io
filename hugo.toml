@@ -10,6 +10,7 @@ colorPalette = 'base16-eighties'
 hideHeader = false
 showFooter = false
 faviconPath = ''
+listSummaries = true
 
 # --- 核心：在这里把中英文简介写在一起 ---
 homeIntroTitle = 'Hi, I am Erhan. | 伏惟道安'
@@ -26,8 +27,7 @@ Feel free to reach out if you wnat to discuss AI alignment, music and post-impre
 """
 
 
-paginationSize = 100
-listSummaries = true
+paginationSize = 20
 listDateFormat = '2006-01-02'
 
 # 面包屑导航
