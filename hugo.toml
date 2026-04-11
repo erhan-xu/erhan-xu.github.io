@@ -11,6 +11,7 @@ hideHeader = false
 showFooter = false
 faviconPath = ''
 listSummaries = true
+hasCJKLanguage = true
 
 # --- 核心：在这里把中英文简介写在一起 ---
 homeIntroTitle = 'Hi, I am Erhan. | 伏惟道安'
