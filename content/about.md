@@ -22,9 +22,11 @@ title: About Me
 
 3. Zhou, H., Ye, K., **Xu, E.**, Zhu, J., Yang, Y., Gong, S. and Shi C. [*Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic*](https://arxiv.org/abs/2603.01162) (arxiv preprints)
 
-4. **Master's Thesis**: *On the Bull and Bear Narratives in Chinese Stock Market*
+4. Gong, S., **Xu, E.**, Ye, K., Quinzan, F., Liveri, G. and Shi, C. [BASIS: Batchwise Advantage Estimation from Single-Rollout Information Sharing for LLM Reasoning](https://arxiv.org/pdf/2605.27293) (arxiv preprints)
 
-5. **Bachelor's Thesis**: *The Behavior Codes of Convertible Bonds' Call in China Using Survival Models*
+5. **Master's Thesis**: *On the Bull and Bear Narratives in Chinese Stock Market*
+
+6. **Bachelor's Thesis**: *The Behavior Codes of Convertible Bonds' Call in China Using Survival Models*
 
 ## Talks
 
