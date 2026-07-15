@@ -15,3 +15,8 @@ Thumbs.db
 # Personal files
 CV_Erhan_Xu_Bilingual.md
 favicon_io/
+
+# Zettelkasten runtime (obsidian cache, editor temps)
+zettelkasten/.obsidian/
+zettelkasten/*.swp
+zettelkasten/.DS_Store
