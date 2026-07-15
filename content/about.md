@@ -21,12 +21,14 @@ title: About Me
 2. Zhu, J., Zhou, H., Ye, K., Yang, Y., **Xu, E.** and Shi, C. [*Towards Prompt-Robust Machine-Generated Text Detection*](https://openreview.net/forum?id=2ZUPeEM3FH) (ICLR 2026) | [GitHub: adagpt](https://github.com/ErhanXu/adagpt)
 
 3. Zhou, H., Ye, K., **Xu, E.**, Zhu, J., Yang, Y., Gong, S. and Shi C. [*Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic*](https://arxiv.org/abs/2603.01162) (arxiv preprints)
+4. Su, P., Ye, K., Gong, S., Xu, E., Zhu, J., Liveri, G. and Shi, C. [READER: Reasoning-Enhanced AI-Generated Text Detection
+](https://arxiv.org/pdf/2605.25281) (arxiv preprints)
 
-4. Gong, S., **Xu, E.**, Ye, K., Quinzan, F., Liveri, G. and Shi, C. [BASIS: Batchwise Advantage Estimation from Single-Rollout Information Sharing for LLM Reasoning](https://arxiv.org/pdf/2605.27293) (arxiv preprints)
+5. Gong, S., **Xu, E.**, Ye, K., Quinzan, F., Liveri, G. and Shi, C. [BASIS: Batchwise Advantage Estimation from Single-Rollout Information Sharing for LLM Reasoning](https://arxiv.org/pdf/2605.27293) (arxiv preprints)
 
-5. **Master's Thesis**: *On the Bull and Bear Narratives in Chinese Stock Market*
+6. **Master's Thesis**: *On the Bull and Bear Narratives in Chinese Stock Market*
 
-6. **Bachelor's Thesis**: *The Behavior Codes of Convertible Bonds' Call in China Using Survival Models*
+7. **Bachelor's Thesis**: *The Behavior Codes of Convertible Bonds' Call in China Using Survival Models*
 
 ## Talks
 
