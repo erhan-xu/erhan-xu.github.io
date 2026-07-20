@@ -4,7 +4,7 @@ created: 2026-07-06
 tags: [rl, alignment, rlhf, interpretability, scaling, low-rank, on-policy]
 status: seedling
 confidence: high
-links: [gradient-2024-shape-symmetry-structure, park-2024-linear-representation-hypothesis, zou-2025-information-self-locking]
+links: []
 source: "Cai et al. 2025 (arXiv:2510.00553); Shenfeld et al. 2025 (arXiv:2509.04259)"
 authors: [Cai, Shenfeld]
 year: 2025
@@ -265,16 +265,6 @@ Table 7/8 的范数列已部分支持 Claim A：
 - on-policy distill (1.46) vs offline distill (21.24)：on-policy 小 15×
 
 DPO 和 on-policy distill 的 rank-1 是中间值（56%, 62%），符合"需要两个旋钮都到位才能 rank-1"。
-
-### 4.10 几何视角：rank-1 × loss landscape × 信息几何（2026-07-08 补充）
-
-来自与 Gradient "Shape, Symmetry, Structure" 博客的交叉讨论，三个几何接口可能构成博士项目的扩展方向：
-
-1. **Edge of Stability × Entropy Explosion**：Qwen3-4B 的 entropy explosion 是否因为 QK LayerNorm 改变了 policy loss landscape 的曲率结构？监测训练中的曲率代理（梯度范数 / Hessian 最大特征值估计），看熵爆炸是否发生在曲率冲过 $2/\eta$ 阈值的时刻。
-2. **Policy 流形 × Fisher 度量**：clip 和 KL 惩罚本质是约束 policy 流形（带 Fisher 信息度量的黎曼流形）上的步长几何。用这个语言重新表述 BASIS/GRPO 的 variance 分析。
-3. **Rank-1 作为"更新的内蕴维度"**：从"表示的内蕴维度"（Aghajanyan et al.）平移到"更新/梯度的内蕴维度"——训练轨迹的全局形状几乎无人理解。
-
-相关文献：Park, Choe, Veitch 2024 (arXiv:2311.03658) — Mahalanobis 内积统一 linear representation hypothesis；Cohen et al. 2021 — Edge of Stability。
 
 ## References
 
