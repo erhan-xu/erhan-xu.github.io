@@ -36,6 +36,8 @@ updated: 2026-07-15
 - `inference` — Model inference, serving, optimization
 - `single-layer-training` — Training individual layers in isolation
 - `layer-contribution` — Per-layer contribution analysis to model performance
+- `data-selection` — Data selection, pruning, curriculum for pre-training
+- `compute-bound` — Compute as a dimension of information/learning
 
 ## Research — Agents & Reasoning
 
@@ -59,6 +61,8 @@ updated: 2026-07-15
 - `fiber-bundle` — Fiber bundle framework for neural networks
 - `loss-landscape` — Loss landscape topology, LMC
 - `information-theory` — Information-theoretic bounds and methods
+- `mdl` — Minimum Description Length, compression-based model/data selection
+- `compression` — Data compression as learning signal
 
 ## Research — Meta
 

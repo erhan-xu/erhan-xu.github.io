@@ -31,6 +31,10 @@ Entry points into the Zettelkasten. Organized by research themes and interests.
 - [[li-2026-claude-code-harness]] — Claude Code Harness 设计：prompt cache 物理约束、multi-agent 架构
 - [[zou-2025-information-self-locking]] — *(also here)* coding agent 的 credit assignment 困境
 
+## Information Theory & Data
+
+- [[finzi-2026-epiplexity]] — Epiplexity：从 MDL 推导数据选择度量，将 compute 视为信息维度 🌱
+
 ## Meta-ML Observations
 
 - [[adam-as-evolutionary-seed]] — ML 社区是广义遗传算法：Adam 作为选择压力 🌿
